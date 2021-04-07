@@ -1,0 +1,15 @@
+{
+  "name": "nodejs-template",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "repository": "https://github.com/hyper63/nodejs-template.git",
+  "author": "Tom Wilson <twilson63@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@hyperio/client": "^1.0.1"
+  },
+  "devDependencies": {
+    "dotenv": "^8.2.0"
+  }
+}
