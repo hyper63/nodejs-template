@@ -11,5 +11,8 @@
   },
   "devDependencies": {
     "dotenv": "^8.2.0"
+  },
+  "scripts": {
+    "demo": "node -r dotenv/config demo.js"
   }
 }
